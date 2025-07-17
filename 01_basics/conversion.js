@@ -11,3 +11,12 @@ console.log((m))
 // syntax:
 // let name = Datatype{String /Number}(the variable which we want to convert).............
 
+
+// for boolean
+let a = 0
+
+let c = Boolean(a)
+console.log(c)
+console.log(typeof(c))
+
+
